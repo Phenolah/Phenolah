@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Movie generator app](https://github.com/Phenolah/MovieApp)
 
-- 🌱 I’m currently learning **react.js and Microsoft azure developer**
+- 🌱 I’m currently learning **react.js and aws solutions architect**
 
 - 👯 I’m looking to collaborate on **Opensource projects**
 
