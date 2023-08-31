@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Opensource projects**
 
-- 💬 Ask me about **django, cloud **
+- 💬 Ask me about **Python,JavaScript cloud **
 
 - 📫 How to reach me **phenolaha@gmail.com**
 
