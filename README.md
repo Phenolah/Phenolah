@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Movie generator app](https://github.com/Phenolah/MovieApp)
 
-- 🌱 I’m currently learning **react.js and aws solutions architect**
+- 🌱 I’m currently learning **mobile dev and aws solutions architect**
 
 - 👯 I’m looking to collaborate on **Opensource projects**
 
-- 💬 Ask me about **Python,JavaScript cloud **
+- 💬 Ask me about **Python,Java, Kotlin cloud **
 
 - 📫 How to reach me **phenolaha@gmail.com**
 
